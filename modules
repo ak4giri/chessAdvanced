@@ -1,0 +1,13 @@
+modules from study that are used in the project:
+- exceptions and catching them (try/catch)
+- files processing: in and out
+- frontend built on java - creating a window and building a panel
+- game loop and threads
+
+
+
+stack that could be added to the project in the future:
+- docker
+- spring
+- concurrency
+- gradle / maven
